@@ -117,19 +117,12 @@ input {
 	padding-bottom: 20px;
 }
 
-/*
-.portpics {
-	padding:10px 10px 10px 10px;
-	margin-right: 30px;
-}
-*/
-
 .box {
 	float:left;
 	position:relative;
 	width:100px;
-	margin-left: 0px;
-	padding: 50px 80px 50px 80px;
+	margin: -45px 70px -10px 0px;
+	padding: 50px 80px 50px 30px;
 }
 
 .box-text {
@@ -141,7 +134,7 @@ input {
 	padding:5px 5px 5px 5px;
 	width:240px;
 	text-align: center;
-	font-size: 20px;
+	font-size: 18px;
 	font-family: Courier New;
 }
 
